@@ -1,0 +1,55 @@
+Public IP Address: 118.179.162.65Processor: AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD
+System: Windows 10.0.26100
+Machine: AMD64
+Hostname: DESKTOP-13RTRB0
+Private IP Address: 192.168.0.199
+Public IP Address: 118.179.162.65Processor: AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD
+System: Windows 10.0.26100
+Machine: AMD64
+Hostname: DESKTOP-13RTRB0
+Private IP Address: 192.168.0.199
+Public IP Address: 118.179.162.65Processor: AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD
+System: Windows 10.0.26100
+Machine: AMD64
+Hostname: DESKTOP-13RTRB0
+Private IP Address: 192.168.0.199
+Public IP Address: 118.179.162.65Processor: AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD
+System: Windows 10.0.26100
+Machine: AMD64
+Hostname: DESKTOP-13RTRB0
+Private IP Address: 192.168.0.199
+Public IP Address: 118.179.162.65Processor: AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD
+System: Windows 10.0.26100
+Machine: AMD64
+Hostname: DESKTOP-13RTRB0
+Private IP Address: 192.168.0.199
+Public IP Address: 118.179.162.65Processor: AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD
+System: Windows 10.0.26100
+Machine: AMD64
+Hostname: DESKTOP-13RTRB0
+Private IP Address: 192.168.0.199
+Public IP Address: 118.179.162.65Processor: AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD
+System: Windows 10.0.26100
+Machine: AMD64
+Hostname: DESKTOP-13RTRB0
+Private IP Address: 192.168.0.199
+Public IP Address: 118.179.162.65Processor: AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD
+System: Windows 10.0.26100
+Machine: AMD64
+Hostname: DESKTOP-13RTRB0
+Private IP Address: 192.168.0.199
+Public IP Address: 118.179.162.65Processor: AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD
+System: Windows 10.0.26100
+Machine: AMD64
+Hostname: DESKTOP-13RTRB0
+Private IP Address: 192.168.0.199
+Public IP Address: 118.179.162.65Processor: AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD
+System: Windows 10.0.26100
+Machine: AMD64
+Hostname: DESKTOP-13RTRB0
+Private IP Address: 192.168.0.199
+Public IP Address: 118.179.162.65Processor: AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD
+System: Windows 10.0.26100
+Machine: AMD64
+Hostname: DESKTOP-13RTRB0
+Private IP Address: 192.168.0.199
